@@ -1,3 +1,6 @@
+# BOJ 10039
+# 평균점수
+
 sum = 0
 
 for _ in range(5):
