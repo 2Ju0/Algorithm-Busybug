@@ -8,3 +8,12 @@ for i in range(n):
     for j in range(len(str)-1, -1, -1):
         print(str[j], end=' ')
     print()
+# ======================================
+n = int(input())
+for i in range(n):
+    str = input().split()
+    print(str)
+    print("Case #%d:" % (i+1), end=' ')
+    while(str):
+        print(str.pop(),end= ' ')
+    print()
