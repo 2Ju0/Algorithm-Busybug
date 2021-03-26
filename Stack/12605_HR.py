@@ -12,7 +12,6 @@ for i in range(n):
 n = int(input())
 for i in range(n):
     str = input().split()
-    print(str)
     print("Case #%d:" % (i+1), end=' ')
     while(str):
         print(str.pop(),end= ' ')
