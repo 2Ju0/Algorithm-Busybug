@@ -1,5 +1,6 @@
 # BOJ 11399
 # ATM
+
 n = int(input())
 p = list(map(int, input().split()))
 p.sort()
