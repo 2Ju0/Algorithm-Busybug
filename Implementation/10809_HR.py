@@ -10,3 +10,9 @@ for i in arr:
             break
     else:
         print(-1, end=' ')
+# ==========================================
+# 🎇다른 풀이법
+S = str(input())
+alpha = list(range(97,123))
+for i in alpha:
+    print(S.find(chr(i)), end = ' ')
