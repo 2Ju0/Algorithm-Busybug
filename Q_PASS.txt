@@ -20,4 +20,6 @@
 👩🏻: I am very tired today...🙄
 👧🏻: Me, too...😥
 ---------------21.04.16--------------- 
-👧🏻: It's already Friday. Let's finish the assignment!
+👧🏻: It's already Friday. 
+    Let's finish the assignment!
+👩🏻: OK! Bye~
