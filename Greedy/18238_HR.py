@@ -1,4 +1,4 @@
-# BOJ 13417
+# BOJ 18238
 # ZOAC 2
 
 str = input()
