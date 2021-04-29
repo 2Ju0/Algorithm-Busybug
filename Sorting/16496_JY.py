@@ -1,3 +1,6 @@
+# BOJ 16496
+# 큰 수 만들기
+
 import sys
 
 if __name__ == '__main__':
