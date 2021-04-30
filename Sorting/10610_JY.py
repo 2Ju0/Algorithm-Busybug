@@ -1,6 +1,5 @@
 # BOJ 10610
 # 30
-
 import sys
 
 lst = list(map(int, sys.stdin.readline().rstrip()))
