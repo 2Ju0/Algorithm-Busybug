@@ -14,3 +14,5 @@
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
 📌 [2146 다리만들기](https://www.acmicpc.net/problem/2146)   
+📌 [1654 랜선자르기](https://www.acmicpc.net/problem/1654)
+📌 [2146 숫자카드2](https://www.acmicpc.net/problem/10816)
