@@ -3,6 +3,8 @@
 ###### - 1 Day 1 Comit 👩‍💻
 
 ## Binary search
+📌 [1300 K번째 수](https://www.acmicpc.net/problem/1300)
+📌 [2512 예산](https://www.acmicpc.net/problem/2512)
 📌 [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
 ## Greedy
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
