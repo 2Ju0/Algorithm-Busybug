@@ -5,7 +5,9 @@
 ## Binary search
 📌 [1300 K번째 수](https://www.acmicpc.net/problem/1300)
 📌 [2512 예산](https://www.acmicpc.net/problem/2512)
-📌 [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)
+📌 [3079 입국심사✈](https://www.acmicpc.net/problem/3079)   
+📌 [14627 파닭파닭🐔](https://www.acmicpc.net/problem/14627)   
+📌 [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)   
 ## Greedy
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 ## Sorting
