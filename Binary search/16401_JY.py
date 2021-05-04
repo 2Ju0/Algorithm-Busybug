@@ -16,8 +16,8 @@ while (start <= end):
     for i in lst:
         total += i // mid
     if total < m:
-        end = mid-1
+        end = mid - 1
     else:
-        start = mid+1
+        start = mid + 1
         answer = mid
 print(answer)
