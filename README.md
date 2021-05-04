@@ -9,7 +9,10 @@
 📌 [14627 파닭파닭🐔](https://www.acmicpc.net/problem/14627)   
 📌 [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)   
 📌 [2776 암기왕](https://www.acmicpc.net/problem/2776)   
-📌 [2343 기타 레슨](https://www.acmicpc.net/problem/2343)   
+📌 [2343 기타 레슨](https://www.acmicpc.net/problem/2343) 
+📌 [2146 다리만들기](https://www.acmicpc.net/problem/2146)   
+📌 [1654 랜선자르기](https://www.acmicpc.net/problem/1654)   
+📌 [2146 숫자카드2](https://www.acmicpc.net/problem/10816)   
 ## Greedy
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 ## Sorting
@@ -19,6 +22,4 @@
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
-📌 [2146 다리만들기](https://www.acmicpc.net/problem/2146)   
-📌 [1654 랜선자르기](https://www.acmicpc.net/problem/1654)   
-📌 [2146 숫자카드2](https://www.acmicpc.net/problem/10816)    
+ 
