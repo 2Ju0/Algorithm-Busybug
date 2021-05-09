@@ -26,21 +26,4 @@
 ## DFS/BFS
 
 ## Dynamic programming
-
-# BOJ 1463
-# 1로 만들기
-n = int(input())
-cnt = 0
-
-while True:
-    if NotImplementedError() == 1:
-        print(cnt)
-        break
-
-    if n % 3 == 0:
-        n = n/3
-    elif n % 2 == 0:
-        n = n/2
-    else:
-        n = n-1
-    cnt = cnt + 1
+📌 [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 
