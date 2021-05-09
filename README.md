@@ -24,4 +24,21 @@
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
- 
+
+# BOJ 1463
+# 1로 만들기
+n = int(input())
+cnt = 0
+
+while True:
+    if NotImplementedError() == 1:
+        print(cnt)
+        break
+
+    if n % 3 == 0:
+        n = n/3
+    elif n % 2 == 0:
+        n = n/2
+    else:
+        n = n-1
+    cnt = cnt + 1
