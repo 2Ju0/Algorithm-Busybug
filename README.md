@@ -25,6 +25,8 @@
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
 
+## Dynamic programming
+
 # BOJ 1463
 # 1로 만들기
 n = int(input())
