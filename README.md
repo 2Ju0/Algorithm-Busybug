@@ -4,7 +4,7 @@
 
 ## Binary search
 📌 [1300 K번째 수](https://www.acmicpc.net/problem/1300)   
-📌 [1654 랜선자르기](https://www.acmicpc.net/problem/1654)  
+📌 [1654 랜선자르기](https://www.acmicpc.net/problem/1654)      
 📌 [2110 공유기 설치](https://www.acmicpc.net/problem/2110)   
 📌 [2146 다리만들기](https://www.acmicpc.net/problem/2146)   
 📌 [2343 기타 레슨](https://www.acmicpc.net/problem/2343)   
@@ -24,4 +24,6 @@
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
- 
+
+## Dynamic programming
+📌 [1463 1로 만들기](https://www.acmicpc.net/problem/1463) 
