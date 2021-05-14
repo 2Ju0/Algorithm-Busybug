@@ -28,6 +28,8 @@
 ## Dynamic programming
 📌 [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)   
 📌 [1463 1로 만들기](https://www.acmicpc.net/problem/1463)   
-📌 [2579 계단 오르기](https://www.acmicpc.net/problem/2579)  
-📌 [11052 카드 구매하기](https://www.acmicpc.net/problem/11052) 
-📌 [11726 2 x n 타일링](https://www.acmicpc.net/problem/11726)  
+📌 [2579 계단 오르기](https://www.acmicpc.net/problem/2579)   
+📌 [9095 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)   
+📌 [11052 카드 구매하기](https://www.acmicpc.net/problem/11052)    
+📌 [11726 2 x n 타일링](https://www.acmicpc.net/problem/11726)   
+
