@@ -16,6 +16,7 @@
 📌 [14627 파닭파닭🐔](https://www.acmicpc.net/problem/14627)   
 📌 [16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)   
 ## Greedy
+📌 [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)    
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 ## Sorting
 📌 [1181 단어 정렬](https://www.acmicpc.net/problem/1181)  
