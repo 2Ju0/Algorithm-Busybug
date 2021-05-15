@@ -19,6 +19,7 @@
 📌 [2720 세탁소 사장 동혁](https://www.acmicpc.net/problem/2720)    
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 📌 [3153 라디오](https://www.acmicpc.net/problem/3153)   
+📌 [13427 카드 문자열](https://www.acmicpc.net/problem/13427)  
 ## Sorting
 📌 [1181 단어 정렬](https://www.acmicpc.net/problem/1181)  
 📌 [10610 30](https://www.acmicpc.net/problem/10610)  
