@@ -20,6 +20,7 @@
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 📌 [3153 라디오](https://www.acmicpc.net/problem/3153)   
 📌 [5585 거스름돈](https://www.acmicpc.net/problem/5585)   
+📌 [10162 전자레인지](https://www.acmicpc.net/problem/10162)   
 ## Sorting
 📌 [1181 단어 정렬](https://www.acmicpc.net/problem/1181)  
 📌 [10610 30](https://www.acmicpc.net/problem/10610)  
