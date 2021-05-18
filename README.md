@@ -28,6 +28,7 @@
 📌 [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)   
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
+📌 [10162 ATM](https://www.acmicpc.net/problem/10162)   
 ## DFS/BFS
 
 ## Dynamic programming
