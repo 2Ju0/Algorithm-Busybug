@@ -20,6 +20,7 @@
 📌 [2839 설탕 배달](https://www.acmicpc.net/problem/2839)   
 📌 [3153 라디오](https://www.acmicpc.net/problem/3153)   
 📌 [5585 거스름돈](https://www.acmicpc.net/problem/5585)   
+📌 [10162 ATM](https://www.acmicpc.net/problem/10162)   
 📌 [10162 전자레인지](https://www.acmicpc.net/problem/10162)   
 📌 [13427 카드 문자열](https://www.acmicpc.net/problem/13427)   
 ## Sorting
@@ -28,7 +29,6 @@
 📌 [10814 나이순 정렬](https://www.acmicpc.net/problem/10814)   
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
-📌 [10162 ATM](https://www.acmicpc.net/problem/10162)   
 ## DFS/BFS
 
 ## Dynamic programming
