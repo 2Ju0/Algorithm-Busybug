@@ -30,6 +30,7 @@
 📌 [11004 K번째 수](https://www.acmicpc.net/problem/11004)   
 📌 [16496 큰 수 만들기](https://www.acmicpc.net/problem/16496)   
 ## DFS/BFS
+📌 [2146 다리만들기](https://www.acmicpc.net/problem/2146)   
 
 ## Dynamic programming
 📌 [1003 피보나치 함수](https://www.acmicpc.net/problem/1003)   
