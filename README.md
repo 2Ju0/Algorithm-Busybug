@@ -23,7 +23,7 @@
 📌 [10162 전자레인지](https://www.acmicpc.net/problem/10162) 
 📌 [11047 동전 0](https://www.acmicpc.net/problem/11047)   
 📌 [11399 ATM](https://www.acmicpc.net/problem/11399)   
-📌 [13427 카드 문자열](https://www.acmicpc.net/problem/13427)   
+📌 [13417 카드 문자열](https://www.acmicpc.net/problem/13427)   
 ## Sorting
 📌 [1181 단어 정렬](https://www.acmicpc.net/problem/1181)  
 📌 [10610 30](https://www.acmicpc.net/problem/10610)  
