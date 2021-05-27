@@ -45,4 +45,5 @@
 
 ## Implementation   
 📌 [10809 알파벳 찾기](https://www.acmicpc.net/problem/10809)   
-📌 [10820 문자열 분석](https://www.acmicpc.net/problem/10820)   
+📌 [10820 문자열 분석](https://www.acmicpc.net/problem/10820)  
+📌 [10824 네 수](https://www.acmicpc.net/problem/10824)  
